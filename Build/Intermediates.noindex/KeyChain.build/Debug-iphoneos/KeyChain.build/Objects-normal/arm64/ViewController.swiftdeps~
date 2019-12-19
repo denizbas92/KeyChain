@@ -1,0 +1,326 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "8KeyChain14ViewControllerC"
+provides-member:
+- ["8KeyChain14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "Date"
+- !private "DateFormatter"
+- !private "KeychainWrapper"
+- !private "NSDate"
+- "String"
+- !private "StringLiteralType"
+- "UIViewController"
+- "ViewController"
+- !private "print"
+depends-member:
+- !private ["s7CVarArgP", "DateFormatter"]
+- !private ["s7CVarArgP", "KeychainWrapper"]
+- !private ["s7CVarArgP", "NSDate"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "getTime"]
+- !private ["s7CVarArgP", "getValueFromKeychain"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "localizedString"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "saveValueToKeychain"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "DateFormatter"]
+- !private ["s28CustomDebugStringConvertibleP", "KeychainWrapper"]
+- !private ["s28CustomDebugStringConvertibleP", "NSDate"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "getTime"]
+- !private ["s28CustomDebugStringConvertibleP", "getValueFromKeychain"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "localizedString"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "saveValueToKeychain"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "DateFormatter"]
+- !private ["s23CustomStringConvertibleP", "KeychainWrapper"]
+- !private ["s23CustomStringConvertibleP", "NSDate"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "getTime"]
+- !private ["s23CustomStringConvertibleP", "getValueFromKeychain"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "localizedString"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "saveValueToKeychain"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["So15NSDateFormatterC", "localizedString"]
+- !private ["SQ", "DateFormatter"]
+- !private ["SQ", "KeychainWrapper"]
+- !private ["SQ", "NSDate"]
+- ["SQ", ""]
+- !private ["SQ", "getTime"]
+- !private ["SQ", "getValueFromKeychain"]
+- !private ["SQ", "init"]
+- !private ["SQ", "localizedString"]
+- !private ["SQ", "medium"]
+- !private ["SQ", "print"]
+- !private ["SQ", "saveValueToKeychain"]
+- !private ["SQ", "short"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["So11NSFormatterC", "localizedString"]
+- !private ["SH", "DateFormatter"]
+- !private ["SH", "KeychainWrapper"]
+- !private ["SH", "NSDate"]
+- ["SH", ""]
+- !private ["SH", "getTime"]
+- !private ["SH", "getValueFromKeychain"]
+- !private ["SH", "init"]
+- !private ["SH", "localizedString"]
+- !private ["SH", "medium"]
+- !private ["SH", "print"]
+- !private ["SH", "saveValueToKeychain"]
+- !private ["SH", "short"]
+- !private ["SH", "viewDidLoad"]
+- !private ["8KeyChain15KeychainWrapperC", "set"]
+- !private ["8KeyChain15KeychainWrapperC", "standard"]
+- !private ["8KeyChain15KeychainWrapperC", "string"]
+- !private ["So8NSCodingP", "DateFormatter"]
+- !private ["So8NSCodingP", "KeychainWrapper"]
+- !private ["So8NSCodingP", "NSDate"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "getTime"]
+- !private ["So8NSCodingP", "getValueFromKeychain"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "localizedString"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "saveValueToKeychain"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "localizedString"]
+- !private ["So6NSDateC", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "DateFormatter"]
+- !private ["So26NSExtensionRequestHandlingP", "KeychainWrapper"]
+- !private ["So26NSExtensionRequestHandlingP", "NSDate"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "getTime"]
+- !private ["So26NSExtensionRequestHandlingP", "getValueFromKeychain"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "saveValueToKeychain"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "Date"]
+- !private ["So8NSObjectC", "DateFormatter"]
+- !private ["So8NSObjectC", "KeychainWrapper"]
+- !private ["So8NSObjectC", "NSDate"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "getTime"]
+- ["So8NSObjectC", "getValueFromKeychain"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "localizedString"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "saveValueToKeychain"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "DateFormatter"]
+- !private ["So8NSObjectP", "KeychainWrapper"]
+- !private ["So8NSObjectP", "NSDate"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "getTime"]
+- !private ["So8NSObjectP", "getValueFromKeychain"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "localizedString"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "saveValueToKeychain"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["SY", "medium"]
+- !private ["SY", "short"]
+- !private ["So20NSDateFormatterStyleV", "medium"]
+- !private ["So20NSDateFormatterStyleV", "short"]
+- !private ["So21UIAppearanceContainerP", "DateFormatter"]
+- !private ["So21UIAppearanceContainerP", "KeychainWrapper"]
+- !private ["So21UIAppearanceContainerP", "NSDate"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "getTime"]
+- !private ["So21UIAppearanceContainerP", "getValueFromKeychain"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "saveValueToKeychain"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "DateFormatter"]
+- !private ["So18UIContentContainerP", "KeychainWrapper"]
+- !private ["So18UIContentContainerP", "NSDate"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "getTime"]
+- !private ["So18UIContentContainerP", "getValueFromKeychain"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "saveValueToKeychain"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "DateFormatter"]
+- !private ["So18UIFocusEnvironmentP", "KeychainWrapper"]
+- !private ["So18UIFocusEnvironmentP", "NSDate"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "getTime"]
+- !private ["So18UIFocusEnvironmentP", "getValueFromKeychain"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "saveValueToKeychain"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "DateFormatter"]
+- !private ["So30UIPasteConfigurationSupportingP", "KeychainWrapper"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSDate"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "getTime"]
+- !private ["So30UIPasteConfigurationSupportingP", "getValueFromKeychain"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "saveValueToKeychain"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "Date"]
+- !private ["So11UIResponderC", "DateFormatter"]
+- !private ["So11UIResponderC", "KeychainWrapper"]
+- !private ["So11UIResponderC", "NSDate"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "getTime"]
+- ["So11UIResponderC", "getValueFromKeychain"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "saveValueToKeychain"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "DateFormatter"]
+- !private ["So30UIResponderStandardEditActionsP", "KeychainWrapper"]
+- !private ["So30UIResponderStandardEditActionsP", "NSDate"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "getTime"]
+- !private ["So30UIResponderStandardEditActionsP", "getValueFromKeychain"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "saveValueToKeychain"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "DateFormatter"]
+- !private ["So16UIStateRestoringP", "KeychainWrapper"]
+- !private ["So16UIStateRestoringP", "NSDate"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "getTime"]
+- !private ["So16UIStateRestoringP", "getValueFromKeychain"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "saveValueToKeychain"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "DateFormatter"]
+- !private ["So18UITraitEnvironmentP", "KeychainWrapper"]
+- !private ["So18UITraitEnvironmentP", "NSDate"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "getTime"]
+- !private ["So18UITraitEnvironmentP", "getValueFromKeychain"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "saveValueToKeychain"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "DateFormatter"]
+- !private ["So23UIUserActivityRestoringP", "KeychainWrapper"]
+- !private ["So23UIUserActivityRestoringP", "NSDate"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "getTime"]
+- !private ["So23UIUserActivityRestoringP", "getValueFromKeychain"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "saveValueToKeychain"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So16UIViewControllerC", "Date"]
+- !private ["So16UIViewControllerC", "DateFormatter"]
+- !private ["So16UIViewControllerC", "KeychainWrapper"]
+- !private ["So16UIViewControllerC", "NSDate"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "getTime"]
+- ["So16UIViewControllerC", "getValueFromKeychain"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "saveValueToKeychain"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["8KeyChain14ViewControllerC", "Date"]
+- !private ["8KeyChain14ViewControllerC", "DateFormatter"]
+- !private ["8KeyChain14ViewControllerC", "KeychainWrapper"]
+- !private ["8KeyChain14ViewControllerC", "NSDate"]
+- ["8KeyChain14ViewControllerC", "String"]
+- ["8KeyChain14ViewControllerC", "deinit"]
+- ["8KeyChain14ViewControllerC", "getTime"]
+- ["8KeyChain14ViewControllerC", "getValueFromKeychain"]
+- ["8KeyChain14ViewControllerC", "init"]
+- !private ["8KeyChain14ViewControllerC", "print"]
+- ["8KeyChain14ViewControllerC", "saveValueToKeychain"]
+- ["8KeyChain14ViewControllerC", "viewDidLoad"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DateFormatter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "KeychainWrapper"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSDate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getTime"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getValueFromKeychain"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "localizedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "saveValueToKeychain"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- !private "So15NSDateFormatterC"
+- "SQ"
+- !private "So11NSFormatterC"
+- "SH"
+- !private "8KeyChain15KeychainWrapperC"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So6NSDateC"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "SY"
+- !private "So20NSDateFormatterStyleV"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- "8KeyChain14ViewControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "6ef4278a316f70bf67e353a4de75f45d"

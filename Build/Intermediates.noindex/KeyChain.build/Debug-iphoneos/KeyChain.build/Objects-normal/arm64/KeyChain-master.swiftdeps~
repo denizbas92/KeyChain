@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "3dcad825adf895fc0a848c1b06ca6471"
+build_time: [1576683122, 318299000]
+inputs:
+  "/Users/apple/Desktop/KeyChain/KeyChain/KeychainWrapper.swift": [1576682447, 67846126]
+  "/Users/apple/Desktop/KeyChain/KeyChain/KeychainItemAccessibility.swift": [1576682447, 75180759]
+  "/Users/apple/Desktop/KeyChain/KeyChain/ViewController.swift": [1576683122, 246798865]
+  "/Users/apple/Desktop/KeyChain/KeyChain/AppDelegate.swift": [1576680993, 416101406]
